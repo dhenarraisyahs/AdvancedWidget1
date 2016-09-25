@@ -1,6 +1,6 @@
 # AdvancedWidget1
 ### A. (Deskripsi Proyek)
-- Judul Proyek : AdvancedWidget1 
+- Judul Proyek : Add Widget Programmatically
 <br>
 
 ### B. (ScreenShot)
